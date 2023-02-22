@@ -1,7 +1,7 @@
 # Econometrics2
 This repository provides the required files for three labs on Econometrics 2 (ECON4004) using Stata, at the Adam Smith Business School, University of Glasgow, 2022-23.
 
-PowerPoint Files
+# PowerPoint Files
 There exist three files on regression models for binary outcomes, panel data models, and time series models.
 
 
